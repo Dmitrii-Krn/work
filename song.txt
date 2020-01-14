@@ -6,3 +6,6 @@ Where will I be this time tomorrow?
 Jumped in joy or sinking in sorrow
 Anyway I should be doing all right
 Doing all right
+
+one more commit for feature
+is going to be git checkout -b feature
