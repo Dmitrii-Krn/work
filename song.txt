@@ -9,3 +9,6 @@ Doing all right
 
 one more commit for feature
 is going to be git checkout -b feature
+
+and one more commit just to add this text
+and this one line
